@@ -1,0 +1,486 @@
+2022-01-10 21:06:35,029 [main] INFO abanking - URL is opened
+2022-01-10 21:08:43,023 [main] INFO abanking - URL is opened
+2022-01-10 21:11:17,703 [main] INFO abanking - URL is opened
+2022-01-10 21:11:44,029 [main] INFO abanking - URL is opened
+2022-01-10 21:11:44,256 [main] INFO abanking - Username is entered
+2022-01-10 21:11:44,479 [main] INFO abanking - Password is entered
+2022-01-10 21:16:06,994 [main] INFO abanking - URL is opened
+2022-01-10 21:16:07,200 [main] INFO abanking - Username is entered
+2022-01-10 21:16:07,409 [main] INFO abanking - Password is entered
+2022-01-10 21:17:26,635 [main] INFO abanking - URL is opened
+2022-01-10 21:17:26,886 [main] INFO abanking - Username is entered
+2022-01-10 21:17:27,128 [main] INFO abanking - Password is entered
+2022-01-10 21:17:28,482 [main] INFO abanking - Login test is passed
+2022-01-22 19:16:52,231 [main] INFO abanking - URL is opened
+2022-01-22 19:16:52,471 [main] INFO abanking - Username is entered
+2022-01-22 19:16:52,709 [main] INFO abanking - Password is entered
+2022-01-22 19:16:54,420 [main] INFO abanking - Login test is passed
+2022-01-23 19:59:15,717 [main] INFO abanking - URL is opened
+2022-01-23 19:59:16,001 [main] INFO abanking - Username is entered
+2022-01-23 19:59:16,462 [main] INFO abanking - Password is entered
+2022-01-23 19:59:17,978 [main] INFO abanking - Login test is passed
+2022-01-23 20:10:13,432 [main] INFO abanking - URL is opened
+2022-01-23 20:10:13,693 [main] INFO abanking - Username is entered
+2022-01-23 20:10:13,950 [main] INFO abanking - Password is entered
+2022-01-23 20:10:15,299 [main] INFO abanking - Login test is passed
+2022-01-23 20:15:58,968 [main] INFO abanking - URL is opened
+2022-01-23 20:15:59,176 [main] INFO abanking - Username is entered
+2022-01-23 20:15:59,390 [main] INFO abanking - Password is entered
+2022-01-23 20:21:01,185 [main] INFO abanking - URL is opened
+2022-01-23 20:21:01,406 [main] INFO abanking - Username is entered
+2022-01-23 20:21:01,598 [main] INFO abanking - Password is entered
+2022-01-23 20:25:11,951 [main] INFO abanking - URL is opened
+2022-01-23 20:25:12,184 [main] INFO abanking - Username is entered
+2022-01-23 20:25:12,369 [main] INFO abanking - Password is entered
+2022-01-23 20:31:06,027 [main] INFO abanking - URL is opened
+2022-01-23 20:31:06,245 [main] INFO abanking - Username is entered
+2022-01-23 20:31:06,445 [main] INFO abanking - Password is entered
+2022-01-23 20:32:17,723 [main] INFO abanking - URL is opened
+2022-01-23 20:32:17,945 [main] INFO abanking - Username is entered
+2022-01-23 20:32:18,169 [main] INFO abanking - Password is entered
+2022-01-24 16:01:30,403 [main] INFO abanking - URL is opened
+2022-01-24 16:01:30,711 [main] INFO abanking - Username is entered
+2022-01-24 16:01:30,872 [main] INFO abanking - Password is entered
+2022-01-24 16:03:11,743 [main] INFO abanking - URL is opened
+2022-01-24 16:03:11,969 [main] INFO abanking - Username is entered
+2022-01-24 16:03:12,180 [main] INFO abanking - Password is entered
+2022-01-24 16:05:36,538 [main] INFO abanking - URL is opened
+2022-01-24 16:05:36,921 [main] INFO abanking - Username is entered
+2022-01-24 16:05:37,048 [main] INFO abanking - Password is entered
+2022-01-24 16:09:40,458 [main] INFO abanking - URL is opened
+2022-01-24 16:09:40,683 [main] INFO abanking - Username is entered
+2022-01-24 16:09:40,882 [main] INFO abanking - Password is entered
+2022-01-24 16:09:43,876 [main] INFO abanking - Login test is failed
+2022-01-25 03:46:25,986 [main] INFO abanking - user name provided
+2022-01-25 03:46:26,239 [main] INFO abanking - password provided
+2022-01-25 03:46:36,980 [main] INFO abanking - Login passed
+2022-01-25 03:46:37,121 [main] INFO abanking - user name provided
+2022-01-25 03:46:37,258 [main] INFO abanking - password provided
+2022-01-25 03:46:47,529 [main] INFO abanking - Login passed
+2022-01-25 03:46:48,192 [main] INFO abanking - user name provided
+2022-01-25 03:46:52,814 [main] INFO abanking - password provided
+2022-01-25 03:46:58,585 [main] INFO abanking - user name provided
+2022-01-25 03:47:00,122 [main] INFO abanking - password provided
+2022-01-25 03:47:06,624 [main] INFO abanking - user name provided
+2022-01-25 03:47:07,305 [main] INFO abanking - password provided
+2022-01-25 03:51:21,294 [main] INFO abanking - user name provided
+2022-01-25 03:51:22,589 [main] INFO abanking - password provided
+2022-01-25 03:51:33,106 [main] INFO abanking - Login passed
+2022-01-25 03:51:33,253 [main] INFO abanking - user name provided
+2022-01-25 03:51:37,087 [main] INFO abanking - password provided
+2022-01-25 03:51:47,997 [main] INFO abanking - Login passed
+2022-01-25 03:51:48,199 [main] INFO abanking - user name provided
+2022-01-25 03:51:48,782 [main] INFO abanking - password provided
+2022-01-25 03:51:54,524 [main] INFO abanking - user name provided
+2022-01-25 03:51:55,110 [main] INFO abanking - password provided
+2022-01-25 03:52:00,686 [main] INFO abanking - user name provided
+2022-01-25 03:52:01,168 [main] INFO abanking - password provided
+2022-01-25 13:12:27,643 [main] INFO abanking - user name provided
+2022-01-25 13:12:27,947 [main] INFO abanking - password provided
+2022-01-25 13:12:38,366 [main] INFO abanking - Login passed
+2022-01-25 13:12:39,025 [main] INFO abanking - user name provided
+2022-01-25 13:12:39,262 [main] INFO abanking - password provided
+2022-01-25 13:12:49,975 [main] INFO abanking - Login passed
+2022-01-25 13:12:50,175 [main] INFO abanking - user name provided
+2022-01-25 13:12:50,732 [main] INFO abanking - password provided
+2022-01-25 13:12:56,198 [main] INFO abanking - user name provided
+2022-01-25 13:12:56,374 [main] INFO abanking - password provided
+2022-01-25 13:13:01,614 [main] INFO abanking - user name provided
+2022-01-25 13:13:01,763 [main] INFO abanking - password provided
+2022-01-25 13:14:20,051 [main] INFO abanking - user name provided
+2022-01-25 13:14:20,399 [main] INFO abanking - password provided
+2022-01-25 13:14:30,351 [main] INFO abanking - Login passed
+2022-01-25 13:14:30,511 [main] INFO abanking - user name provided
+2022-01-25 13:14:30,707 [main] INFO abanking - password provided
+2022-01-25 13:14:41,477 [main] INFO abanking - Login passed
+2022-01-25 13:14:41,681 [main] INFO abanking - user name provided
+2022-01-25 13:14:42,207 [main] INFO abanking - password provided
+2022-01-25 13:14:46,914 [main] INFO abanking - user name provided
+2022-01-25 13:14:47,099 [main] INFO abanking - password provided
+2022-01-25 13:14:53,499 [main] INFO abanking - user name provided
+2022-01-25 13:14:54,035 [main] INFO abanking - password provided
+2022-01-25 13:20:23,427 [main] INFO abanking - user name provided
+2022-01-25 13:20:23,639 [main] INFO abanking - password provided
+2022-01-25 13:20:33,461 [main] INFO abanking - Login passed
+2022-01-25 13:20:33,620 [main] INFO abanking - user name provided
+2022-01-25 13:20:33,799 [main] INFO abanking - password provided
+2022-01-25 13:20:43,515 [main] INFO abanking - Login passed
+2022-01-25 13:20:43,671 [main] INFO abanking - user name provided
+2022-01-25 13:20:43,803 [main] INFO abanking - password provided
+2022-01-25 13:20:48,722 [main] INFO abanking - user name provided
+2022-01-25 13:20:48,848 [main] INFO abanking - password provided
+2022-01-25 13:20:54,380 [main] INFO abanking - user name provided
+2022-01-25 13:20:54,544 [main] INFO abanking - password provided
+2022-01-25 13:23:44,409 [main] INFO abanking - user name provided
+2022-01-25 13:23:44,723 [main] INFO abanking - password provided
+2022-01-25 13:23:54,601 [main] INFO abanking - Login passed
+2022-01-25 13:24:29,406 [main] INFO abanking - user name provided
+2022-01-25 13:24:29,770 [main] INFO abanking - password provided
+2022-01-25 13:24:41,031 [main] INFO abanking - Login passed
+2022-01-25 13:25:19,254 [main] INFO abanking - user name provided
+2022-01-25 13:25:19,622 [main] INFO abanking - password provided
+2022-01-25 14:16:55,591 [main] INFO abanking - user name provided
+2022-01-25 14:16:55,743 [main] INFO abanking - password provided
+2022-01-25 14:17:05,605 [main] INFO abanking - Login passed
+2022-01-25 14:17:05,800 [main] INFO abanking - user name provided
+2022-01-25 14:17:06,512 [main] INFO abanking - password provided
+2022-01-25 14:17:16,278 [main] INFO abanking - Login passed
+2022-01-25 14:17:16,510 [main] INFO abanking - user name provided
+2022-01-25 14:17:16,634 [main] INFO abanking - password provided
+2022-01-25 14:17:21,848 [main] INFO abanking - user name provided
+2022-01-25 14:17:22,011 [main] INFO abanking - password provided
+2022-01-25 14:17:27,753 [main] INFO abanking - user name provided
+2022-01-25 14:17:27,904 [main] INFO abanking - password provided
+2022-01-25 14:20:08,003 [main] INFO abanking - user name provided
+2022-01-25 14:20:08,281 [main] INFO abanking - password provided
+2022-01-25 14:20:19,977 [main] INFO abanking - Login passed
+2022-01-25 14:20:20,140 [main] INFO abanking - user name provided
+2022-01-25 14:20:20,744 [main] INFO abanking - password provided
+2022-01-25 14:20:30,351 [main] INFO abanking - Login passed
+2022-01-25 14:20:30,511 [main] INFO abanking - user name provided
+2022-01-25 14:20:30,826 [main] INFO abanking - password provided
+2022-01-25 14:20:35,713 [main] INFO abanking - Info Login failed
+2022-01-25 14:20:35,714 [main] WARN abanking - Login failed
+2022-01-25 14:20:35,865 [main] INFO abanking - user name provided
+2022-01-25 14:20:36,021 [main] INFO abanking - password provided
+2022-01-25 14:20:41,601 [main] INFO abanking - Info Login failed
+2022-01-25 14:20:41,601 [main] WARN abanking - Login failed
+2022-01-25 14:20:41,743 [main] INFO abanking - user name provided
+2022-01-25 14:20:42,262 [main] INFO abanking - password provided
+2022-01-25 14:20:46,807 [main] INFO abanking - Info Login failed
+2022-01-25 14:20:46,808 [main] WARN abanking - Login failed
+2022-01-25 14:23:17,924 [main] INFO abanking - user name provided
+2022-01-25 14:23:18,125 [main] INFO abanking - password provided
+2022-01-25 14:23:28,939 [main] INFO abanking - Login passed
+2022-01-25 14:23:29,110 [main] INFO abanking - user name provided
+2022-01-25 14:23:29,729 [main] INFO abanking - password provided
+2022-01-25 14:23:39,488 [main] INFO abanking - Login passed
+2022-01-25 14:23:39,726 [main] INFO abanking - user name provided
+2022-01-25 14:23:40,374 [main] INFO abanking - password provided
+2022-01-25 14:23:45,026 [main] INFO abanking - Info Login failed
+2022-01-25 14:23:45,027 [main] WARN abanking - Login failed
+2022-01-25 14:23:45,161 [main] INFO abanking - user name provided
+2022-01-25 14:23:45,300 [main] INFO abanking - password provided
+2022-01-25 14:23:50,984 [main] INFO abanking - Info Login failed
+2022-01-25 14:23:50,985 [main] WARN abanking - Login failed
+2022-01-25 14:23:51,134 [main] INFO abanking - user name provided
+2022-01-25 14:23:51,264 [main] INFO abanking - password provided
+2022-01-25 14:23:56,154 [main] INFO abanking - Info Login failed
+2022-01-25 14:23:56,154 [main] WARN abanking - Login failed
+2022-01-25 14:24:30,686 [main] INFO abanking - user name provided
+2022-01-25 14:24:30,944 [main] INFO abanking - password provided
+2022-01-25 14:24:42,149 [main] INFO abanking - Login passed
+2022-01-25 14:24:42,321 [main] INFO abanking - user name provided
+2022-01-25 14:24:42,653 [main] INFO abanking - password provided
+2022-01-25 14:24:53,454 [main] INFO abanking - Login passed
+2022-01-25 14:24:53,590 [main] INFO abanking - user name provided
+2022-01-25 14:24:53,721 [main] INFO abanking - password provided
+2022-01-25 14:24:58,543 [main] INFO abanking - Info Login failed
+2022-01-25 14:24:58,543 [main] WARN abanking - Login failed
+2022-01-25 14:24:59,338 [main] INFO abanking - user name provided
+2022-01-25 14:24:59,496 [main] INFO abanking - password provided
+2022-01-25 14:25:05,851 [main] INFO abanking - Info Login failed
+2022-01-25 14:25:05,852 [main] WARN abanking - Login failed
+2022-01-25 14:25:06,091 [main] INFO abanking - user name provided
+2022-01-25 14:25:06,588 [main] INFO abanking - password provided
+2022-01-25 14:25:11,185 [main] INFO abanking - Info Login failed
+2022-01-25 14:25:11,185 [main] WARN abanking - Login failed
+2022-01-25 14:35:04,892 [main] INFO abanking - user name provided
+2022-01-25 14:35:05,097 [main] INFO abanking - password provided
+2022-01-25 14:35:18,327 [main] INFO abanking - Login passed
+2022-01-25 14:35:18,526 [main] INFO abanking - user name provided
+2022-01-25 14:35:18,709 [main] INFO abanking - password provided
+2022-01-25 14:35:32,259 [main] INFO abanking - Login passed
+2022-01-25 14:35:32,441 [main] INFO abanking - user name provided
+2022-01-25 14:35:32,585 [main] INFO abanking - password provided
+2022-01-25 14:35:37,460 [main] INFO abanking - Info Login failed
+2022-01-25 14:35:37,460 [main] WARN abanking - Login failed
+2022-01-25 14:35:37,631 [main] INFO abanking - user name provided
+2022-01-25 14:35:38,235 [main] INFO abanking - password provided
+2022-01-25 14:35:44,267 [main] INFO abanking - Info Login failed
+2022-01-25 14:35:44,267 [main] WARN abanking - Login failed
+2022-01-25 14:35:44,402 [main] INFO abanking - user name provided
+2022-01-25 14:35:44,898 [main] INFO abanking - password provided
+2022-01-25 14:35:52,078 [main] INFO abanking - Info Login failed
+2022-01-25 14:35:52,078 [main] WARN abanking - Login failed
+2022-01-25 14:37:06,433 [main] INFO abanking - user name provided
+2022-01-25 14:37:06,658 [main] INFO abanking - password provided
+2022-01-25 14:37:16,836 [main] INFO abanking - Login passed
+2022-01-25 14:37:16,980 [main] INFO abanking - user name provided
+2022-01-25 14:37:17,154 [main] INFO abanking - password provided
+2022-01-25 14:37:27,022 [main] INFO abanking - Login passed
+2022-01-25 14:37:27,161 [main] INFO abanking - user name provided
+2022-01-25 14:37:27,302 [main] INFO abanking - password provided
+2022-01-25 14:37:32,563 [main] INFO abanking - Info Login failed
+2022-01-25 14:37:32,563 [main] WARN abanking - Login failed
+2022-01-25 14:37:32,719 [main] INFO abanking - user name provided
+2022-01-25 14:37:33,244 [main] INFO abanking - password provided
+2022-01-25 14:37:38,817 [main] INFO abanking - Info Login failed
+2022-01-25 14:37:38,818 [main] WARN abanking - Login failed
+2022-01-25 14:37:38,968 [main] INFO abanking - user name provided
+2022-01-25 14:37:39,464 [main] INFO abanking - password provided
+2022-01-25 14:37:44,216 [main] INFO abanking - Info Login failed
+2022-01-25 14:37:44,216 [main] WARN abanking - Login failed
+2022-01-26 17:45:17,846 [main] INFO abanking - Username is provided
+2022-01-26 17:45:18,127 [main] INFO abanking - Password is provided
+2022-01-26 17:45:24,192 [main] INFO abanking - Providing customer details
+2022-01-26 18:14:57,710 [main] INFO abanking - Username is provided
+2022-01-26 18:14:57,832 [main] INFO abanking - Password is provided
+2022-01-26 18:15:02,814 [main] INFO abanking - Providing customer details
+2022-01-26 18:19:08,176 [main] INFO abanking - Username is provided
+2022-01-26 18:19:08,406 [main] INFO abanking - Password is provided
+2022-01-26 18:19:13,566 [main] INFO abanking - Providing customer details
+2022-01-26 18:20:43,987 [main] INFO abanking - Username is provided
+2022-01-26 18:20:44,198 [main] INFO abanking - Password is provided
+2022-01-26 18:20:49,130 [main] INFO abanking - Providing customer details
+2022-01-26 18:20:56,101 [main] INFO abanking - Validation started
+2022-01-26 18:22:25,546 [main] INFO abanking - Username is provided
+2022-01-26 18:22:25,736 [main] INFO abanking - Password is provided
+2022-01-26 18:22:30,854 [main] INFO abanking - Providing customer details
+2022-01-26 18:22:37,521 [main] INFO abanking - Validation started
+2022-01-26 18:25:12,662 [main] INFO abanking - Username is provided
+2022-01-26 18:25:12,856 [main] INFO abanking - Password is provided
+2022-01-26 18:25:18,450 [main] INFO abanking - Providing customer details
+2022-01-26 18:25:27,563 [main] INFO abanking - Validation started
+2022-01-26 18:25:27,729 [main] INFO abanking - Test case passed
+2022-01-26 18:27:57,274 [main] INFO abanking - Username is provided
+2022-01-26 18:27:57,527 [main] INFO abanking - Password is provided
+2022-01-26 18:28:02,401 [main] INFO abanking - Providing customer details
+2022-01-26 18:28:08,858 [main] INFO abanking - Validation started
+2022-01-26 18:33:24,794 [main] INFO abanking - Username is provided
+2022-01-26 18:33:24,944 [main] INFO abanking - Password is provided
+2022-01-26 18:33:29,868 [main] INFO abanking - Providing customer details
+2022-01-26 18:33:36,444 [main] INFO abanking - Validation started
+2022-01-26 18:35:43,082 [main] INFO abanking - Username is provided
+2022-01-26 18:35:43,241 [main] INFO abanking - Password is provided
+2022-01-26 18:35:48,576 [main] INFO abanking - Providing customer details
+2022-01-26 18:35:55,835 [main] INFO abanking - Validation started
+2022-01-26 18:37:33,585 [main] INFO abanking - Username is provided
+2022-01-26 18:37:33,936 [main] INFO abanking - Password is provided
+2022-01-26 18:37:39,108 [main] INFO abanking - Providing customer details
+2022-01-26 18:37:46,337 [main] INFO abanking - Validation started
+2022-01-26 18:40:45,552 [main] INFO abanking - Username is provided
+2022-01-26 18:40:45,981 [main] INFO abanking - Password is provided
+2022-01-26 18:40:51,237 [main] INFO abanking - Providing customer details
+2022-01-26 18:40:58,301 [main] INFO abanking - Validation started
+2022-01-26 18:42:46,725 [main] INFO abanking - Username is provided
+2022-01-26 18:42:47,009 [main] INFO abanking - Password is provided
+2022-01-26 18:42:52,121 [main] INFO abanking - Providing customer details
+2022-01-26 18:42:59,258 [main] INFO abanking - Validation started
+2022-01-26 18:42:59,640 [main] INFO abanking - Test case failed
+2022-01-26 18:44:41,997 [main] INFO abanking - Username is provided
+2022-01-26 18:44:42,196 [main] INFO abanking - Password is provided
+2022-01-26 18:44:47,284 [main] INFO abanking - Providing customer details
+2022-01-26 18:44:54,377 [main] INFO abanking - Validation started
+2022-01-26 18:51:00,017 [main] INFO abanking - URL is opened
+2022-01-26 18:51:00,193 [main] INFO abanking - Username is entered
+2022-01-26 18:51:00,814 [main] INFO abanking - Password is entered
+2022-01-26 18:51:02,033 [main] INFO abanking - Login test is failed
+2022-01-26 18:51:11,374 [main] INFO abanking - user name provided
+2022-01-26 18:51:11,675 [main] INFO abanking - password provided
+2022-01-26 18:51:21,569 [main] INFO abanking - Login passed
+2022-01-26 18:51:21,707 [main] INFO abanking - user name provided
+2022-01-26 18:51:21,890 [main] INFO abanking - password provided
+2022-01-26 18:51:31,947 [main] INFO abanking - Login passed
+2022-01-26 18:51:32,126 [main] INFO abanking - user name provided
+2022-01-26 18:51:32,259 [main] INFO abanking - password provided
+2022-01-26 18:51:37,625 [main] INFO abanking - Info Login failed
+2022-01-26 18:51:37,626 [main] WARN abanking - Login failed
+2022-01-26 18:51:37,784 [main] INFO abanking - user name provided
+2022-01-26 18:51:38,285 [main] INFO abanking - password provided
+2022-01-26 18:51:44,904 [main] INFO abanking - Info Login failed
+2022-01-26 18:51:44,905 [main] WARN abanking - Login failed
+2022-01-26 18:51:45,050 [main] INFO abanking - user name provided
+2022-01-26 18:51:45,563 [main] INFO abanking - password provided
+2022-01-26 18:51:50,981 [main] INFO abanking - Info Login failed
+2022-01-26 18:51:50,981 [main] WARN abanking - Login failed
+2022-01-26 18:51:58,383 [main] INFO abanking - Username is provided
+2022-01-26 18:51:58,574 [main] INFO abanking - Password is provided
+2022-01-26 18:52:03,523 [main] INFO abanking - Providing customer details
+2022-01-26 18:52:11,900 [main] INFO abanking - Validation started
+2022-01-26 18:52:17,028 [main] INFO abanking - Test case passed
+2022-01-27 01:19:30,207 [main] INFO abanking - URL is opened
+2022-01-27 01:19:30,875 [main] INFO abanking - Username is entered
+2022-01-27 01:19:31,051 [main] INFO abanking - Password is entered
+2022-01-27 01:19:33,413 [main] INFO abanking - Login test is failed
+2022-01-27 01:19:44,236 [main] INFO abanking - user name provided
+2022-01-27 01:19:44,413 [main] INFO abanking - password provided
+2022-01-27 01:19:54,469 [main] INFO abanking - Login passed
+2022-01-27 01:19:54,639 [main] INFO abanking - user name provided
+2022-01-27 01:19:55,081 [main] INFO abanking - password provided
+2022-01-27 01:20:04,840 [main] INFO abanking - Login passed
+2022-01-27 01:20:06,810 [main] INFO abanking - user name provided
+2022-01-27 01:20:06,920 [main] INFO abanking - password provided
+2022-01-27 01:20:12,420 [main] INFO abanking - Info Login failed
+2022-01-27 01:20:12,420 [main] WARN abanking - Login failed
+2022-01-27 01:20:12,552 [main] INFO abanking - user name provided
+2022-01-27 01:20:13,174 [main] INFO abanking - password provided
+2022-01-27 01:20:18,678 [main] INFO abanking - Info Login failed
+2022-01-27 01:20:18,679 [main] WARN abanking - Login failed
+2022-01-27 01:20:18,830 [main] INFO abanking - user name provided
+2022-01-27 01:20:19,570 [main] INFO abanking - password provided
+2022-01-27 01:20:24,273 [main] INFO abanking - Info Login failed
+2022-01-27 01:20:24,274 [main] WARN abanking - Login failed
+2022-01-27 01:20:31,967 [main] INFO abanking - Username is provided
+2022-01-27 01:20:32,130 [main] INFO abanking - Password is provided
+2022-01-27 01:20:37,617 [main] INFO abanking - Providing customer details
+2022-01-27 01:20:47,493 [main] INFO abanking - Validation started
+2022-01-27 01:20:52,787 [main] INFO abanking - Test case passed
+2022-01-27 12:48:15,560 [main] INFO abanking - URL is opened
+2022-01-27 12:48:16,177 [main] INFO abanking - Username is entered
+2022-01-27 12:48:16,365 [main] INFO abanking - Password is entered
+2022-01-27 12:48:17,893 [main] INFO abanking - Login test is passed
+2022-01-27 12:48:27,438 [main] INFO abanking - user name provided
+2022-01-27 12:48:27,679 [main] INFO abanking - password provided
+2022-01-27 12:48:39,710 [main] INFO abanking - Login passed
+2022-01-27 12:48:39,850 [main] INFO abanking - user name provided
+2022-01-27 12:48:40,087 [main] INFO abanking - password provided
+2022-01-27 12:48:51,918 [main] INFO abanking - Login passed
+2022-01-27 12:48:52,067 [main] INFO abanking - user name provided
+2022-01-27 12:48:52,597 [main] INFO abanking - password provided
+2022-01-27 12:48:57,991 [main] INFO abanking - Info Login failed
+2022-01-27 12:48:57,991 [main] WARN abanking - Login failed
+2022-01-27 12:48:58,137 [main] INFO abanking - user name provided
+2022-01-27 12:48:58,643 [main] INFO abanking - password provided
+2022-01-27 12:49:03,333 [main] INFO abanking - Info Login failed
+2022-01-27 12:49:03,333 [main] WARN abanking - Login failed
+2022-01-27 12:49:03,463 [main] INFO abanking - user name provided
+2022-01-27 12:49:03,995 [main] INFO abanking - password provided
+2022-01-27 12:49:09,827 [main] INFO abanking - Info Login failed
+2022-01-27 12:49:09,827 [main] WARN abanking - Login failed
+2022-01-27 12:49:16,960 [main] INFO abanking - Username is provided
+2022-01-27 12:49:17,201 [main] INFO abanking - Password is provided
+2022-01-27 12:49:23,973 [main] INFO abanking - Providing customer details
+2022-01-27 12:49:32,219 [main] INFO abanking - Validation started
+2022-01-27 12:49:37,340 [main] INFO abanking - Test case passed
+2022-01-27 14:34:45,461 [main] INFO abanking - URL is opened
+2022-01-27 14:34:45,670 [main] INFO abanking - Username is entered
+2022-01-27 14:34:46,394 [main] INFO abanking - Password is entered
+2022-01-27 14:34:47,812 [main] INFO abanking - Login test is passed
+2022-01-27 14:34:55,832 [main] INFO abanking - user name provided
+2022-01-27 14:34:56,081 [main] INFO abanking - password provided
+2022-01-27 14:35:06,072 [main] INFO abanking - Login passed
+2022-01-27 14:35:06,221 [main] INFO abanking - user name provided
+2022-01-27 14:35:06,436 [main] INFO abanking - password provided
+2022-01-27 14:35:20,276 [main] INFO abanking - Login passed
+2022-01-27 14:35:20,489 [main] INFO abanking - user name provided
+2022-01-27 14:35:20,708 [main] INFO abanking - password provided
+2022-01-27 14:35:27,007 [main] INFO abanking - Info Login failed
+2022-01-27 14:35:27,007 [main] WARN abanking - Login failed
+2022-01-27 14:35:27,420 [main] INFO abanking - user name provided
+2022-01-27 14:35:27,624 [main] INFO abanking - password provided
+2022-01-27 14:35:32,883 [main] INFO abanking - Info Login failed
+2022-01-27 14:35:32,883 [main] WARN abanking - Login failed
+2022-01-27 14:35:33,047 [main] INFO abanking - user name provided
+2022-01-27 14:35:33,649 [main] INFO abanking - password provided
+2022-01-27 14:35:39,315 [main] INFO abanking - Info Login failed
+2022-01-27 14:35:39,316 [main] WARN abanking - Login failed
+2022-01-27 14:35:46,339 [main] INFO abanking - Username is provided
+2022-01-27 14:35:46,601 [main] INFO abanking - Password is provided
+2022-01-27 14:35:51,908 [main] INFO abanking - Providing customer details
+2022-01-27 14:36:01,536 [main] INFO abanking - Validation started
+2022-01-27 14:36:06,705 [main] INFO abanking - Test case passed
+2022-01-28 12:19:50,529 [main] INFO abanking - user name provided
+2022-01-28 12:19:50,784 [main] INFO abanking - password provided
+2022-01-28 12:20:01,684 [main] INFO abanking - Login passed
+2022-01-28 12:20:01,834 [main] INFO abanking - user name provided
+2022-01-28 12:20:02,349 [main] INFO abanking - password provided
+2022-01-28 12:20:11,984 [main] INFO abanking - Login passed
+2022-01-28 12:20:12,122 [main] INFO abanking - user name provided
+2022-01-28 12:20:12,277 [main] INFO abanking - password provided
+2022-01-28 12:20:18,162 [main] INFO abanking - Info Login failed
+2022-01-28 12:20:18,163 [main] WARN abanking - Login failed
+2022-01-28 12:20:18,559 [main] INFO abanking - user name provided
+2022-01-28 12:20:18,774 [main] INFO abanking - password provided
+2022-01-28 12:20:24,511 [main] INFO abanking - Info Login failed
+2022-01-28 12:20:24,512 [main] WARN abanking - Login failed
+2022-01-28 12:20:25,899 [main] INFO abanking - user name provided
+2022-01-28 12:20:26,087 [main] INFO abanking - password provided
+2022-01-28 12:20:32,052 [main] INFO abanking - Info Login failed
+2022-01-28 12:20:32,053 [main] WARN abanking - Login failed
+2022-01-28 12:20:39,107 [main] INFO abanking - Username is provided
+2022-01-28 12:20:39,303 [main] INFO abanking - Password is provided
+2022-01-28 12:20:44,288 [main] INFO abanking - Providing customer details
+2022-01-28 12:20:53,298 [main] INFO abanking - Validation started
+2022-01-28 12:20:58,713 [main] INFO abanking - Test case passed
+2022-01-28 20:13:00,631 [main] INFO abanking - URL is opened
+2022-01-28 20:13:01,029 [main] INFO abanking - Username is entered
+2022-01-28 20:13:01,204 [main] INFO abanking - Password is entered
+2022-01-28 20:13:03,201 [main] INFO abanking - Login test is passed
+2022-01-28 20:13:13,314 [main] INFO abanking - user name provided
+2022-01-28 20:13:13,520 [main] INFO abanking - password provided
+2022-01-28 20:13:24,397 [main] INFO abanking - Login passed
+2022-01-28 20:13:25,254 [main] INFO abanking - user name provided
+2022-01-28 20:13:25,820 [main] INFO abanking - password provided
+2022-01-28 20:13:36,524 [main] INFO abanking - Login passed
+2022-01-28 20:13:36,746 [main] INFO abanking - user name provided
+2022-01-28 20:13:37,435 [main] INFO abanking - password provided
+2022-01-28 20:13:42,824 [main] INFO abanking - Info Login failed
+2022-01-28 20:13:42,825 [main] WARN abanking - Login failed
+2022-01-28 20:13:43,152 [main] INFO abanking - user name provided
+2022-01-28 20:13:43,330 [main] INFO abanking - password provided
+2022-01-28 20:13:49,132 [main] INFO abanking - Info Login failed
+2022-01-28 20:13:49,134 [main] WARN abanking - Login failed
+2022-01-28 20:13:49,653 [main] INFO abanking - user name provided
+2022-01-28 20:13:49,849 [main] INFO abanking - password provided
+2022-01-28 20:13:54,738 [main] INFO abanking - Info Login failed
+2022-01-28 20:13:54,739 [main] WARN abanking - Login failed
+2022-01-28 20:14:09,513 [main] INFO abanking - Username is provided
+2022-01-28 20:14:09,702 [main] INFO abanking - Password is provided
+2022-01-28 20:14:17,903 [main] INFO abanking - Providing customer details
+2022-01-28 20:14:26,514 [main] INFO abanking - Validation started
+2022-01-28 20:14:31,821 [main] INFO abanking - Test case passed
+2022-01-28 20:16:03,602 [main] INFO abanking - URL is opened
+2022-01-28 20:16:04,180 [main] INFO abanking - Username is entered
+2022-01-28 20:16:04,372 [main] INFO abanking - Password is entered
+2022-01-28 20:16:08,601 [main] INFO abanking - Login test is passed
+2022-01-28 20:16:20,110 [main] INFO abanking - user name provided
+2022-01-28 20:16:20,500 [main] INFO abanking - password provided
+2022-01-28 20:16:34,933 [main] INFO abanking - Login passed
+2022-01-28 20:16:35,223 [main] INFO abanking - user name provided
+2022-01-28 20:16:35,331 [main] INFO abanking - password provided
+2022-01-28 20:16:47,577 [main] INFO abanking - Login passed
+2022-01-28 20:16:48,224 [main] INFO abanking - user name provided
+2022-01-28 20:16:48,339 [main] INFO abanking - password provided
+2022-01-28 20:16:55,308 [main] INFO abanking - Info Login failed
+2022-01-28 20:16:55,308 [main] WARN abanking - Login failed
+2022-01-28 20:16:55,655 [main] INFO abanking - user name provided
+2022-01-28 20:16:55,756 [main] INFO abanking - password provided
+2022-01-28 20:17:01,495 [main] INFO abanking - Info Login failed
+2022-01-28 20:17:01,496 [main] WARN abanking - Login failed
+2022-01-28 20:17:01,957 [main] INFO abanking - user name provided
+2022-01-28 20:17:02,220 [main] INFO abanking - password provided
+2022-01-28 20:17:08,247 [main] INFO abanking - Info Login failed
+2022-01-28 20:17:08,247 [main] WARN abanking - Login failed
+2022-01-28 20:17:21,530 [main] INFO abanking - Username is provided
+2022-01-28 20:17:21,744 [main] INFO abanking - Password is provided
+2022-01-28 20:17:32,775 [main] INFO abanking - Providing customer details
+2022-01-28 20:17:43,302 [main] INFO abanking - Validation started
+2022-01-28 20:17:48,562 [main] INFO abanking - Test case passed
+2022-01-28 21:15:35,297 [main] INFO abanking - URL is opened
+2022-01-28 21:15:37,252 [main] INFO abanking - Username is entered
+2022-01-28 21:15:40,527 [main] INFO abanking - Password is entered
+2022-01-28 21:15:43,028 [main] INFO abanking - Login test is passed
+2022-01-28 21:15:55,657 [main] INFO abanking - user name provided
+2022-01-28 21:15:56,835 [main] INFO abanking - password provided
+2022-01-28 21:16:07,747 [main] INFO abanking - Login passed
+2022-01-28 21:16:07,901 [main] INFO abanking - user name provided
+2022-01-28 21:16:11,023 [main] INFO abanking - password provided
+2022-01-28 21:16:22,291 [main] INFO abanking - Login passed
+2022-01-28 21:16:22,419 [main] INFO abanking - user name provided
+2022-01-28 21:16:22,900 [main] INFO abanking - password provided
+2022-01-28 21:16:28,828 [main] INFO abanking - Info Login failed
+2022-01-28 21:16:28,829 [main] WARN abanking - Login failed
+2022-01-28 21:16:28,978 [main] INFO abanking - user name provided
+2022-01-28 21:16:29,396 [main] INFO abanking - password provided
+2022-01-28 21:16:35,029 [main] INFO abanking - Info Login failed
+2022-01-28 21:16:35,029 [main] WARN abanking - Login failed
+2022-01-28 21:16:35,176 [main] INFO abanking - user name provided
+2022-01-28 21:16:35,647 [main] INFO abanking - password provided
+2022-01-28 21:16:40,722 [main] INFO abanking - Info Login failed
+2022-01-28 21:16:40,723 [main] WARN abanking - Login failed
+2022-01-28 21:16:48,943 [main] INFO abanking - Username is provided
+2022-01-28 21:16:49,149 [main] INFO abanking - Password is provided
+2022-01-28 21:16:55,701 [main] INFO abanking - Providing customer details
+2022-01-28 21:17:03,203 [main] INFO abanking - Validation started
+2022-01-28 21:17:08,337 [main] INFO abanking - Test case passed

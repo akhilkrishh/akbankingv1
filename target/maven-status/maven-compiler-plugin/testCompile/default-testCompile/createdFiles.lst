@@ -1,0 +1,9 @@
+com\akBanking\pageObjects\AddCustomerPage.class
+com\akBanking\pageObjects\LoginPage.class
+com\akBanking\testCases\TC_LogintestDP_002.class
+com\akBanking\utilities\ReadConfig.class
+com\akBanking\testCases\TC_AddCustomertest_003.class
+com\akBanking\utilities\Reporting.class
+com\akBanking\utilities\XLUtils.class
+com\akBanking\testCases\TC_Logintest_001.class
+com\akBanking\testCases\BaseClass.class
